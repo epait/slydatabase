@@ -37,6 +37,7 @@ INSTALLED_APPS = (
     'django.contrib.staticfiles',
     'django.contrib.admindocs',
     'django.contrib.humanize',
+    'sly_users',
     'sly_bills',
     'sly_forms',
 )
